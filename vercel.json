@@ -1,0 +1,8 @@
+{
+  "rewrites": [
+    {
+      "source": "/api/:match*",
+      "destination": "https://netease-cloud-music-px8re80b4-kensam0805.vercel.app/:match*"
+    }
+  ]
+}
